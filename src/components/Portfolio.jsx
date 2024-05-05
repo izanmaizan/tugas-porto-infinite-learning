@@ -23,7 +23,7 @@ const Portfolio = () => {
     {
       id: 3,
       src: bookinghotel,
-      link: 'https://restapi-crud-iota.vercel.app/booking',
+      link: 'https://restapi-crud-iota.vercel.app/',
       repo: 'https://github.com/izanmaizan/project-restapi-refa-javami-kurnia/'
     },
     {
