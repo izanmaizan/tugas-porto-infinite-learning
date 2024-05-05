@@ -18,7 +18,7 @@ const Home = () => {
           />
         </div>
         <div className="flex flex-col justify-center h-full">
-          <h2 className="text-4xl sm:text-7xl font-bold text-white">
+          <h2 className="text-4xl sm:text-4xl font-bold text-white">
             Hallo👋, aku Maizan Insani Akbar✨
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
@@ -43,7 +43,7 @@ const Home = () => {
           <img
             src={HeroImage}
             alt="profile"
-            className="rounded-2xl mx-auto w-2/3 md:w-full"
+            className="rounded-2xl ml-28 w-2/3 md:w-full"
           />
         </div>
         
